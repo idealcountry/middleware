@@ -1,0 +1,6 @@
+#redis
+spring:
+  redis:
+    host: 47.96.150.59
+    port: 6379
+    password: 1314520
