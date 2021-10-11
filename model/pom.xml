@@ -17,7 +17,7 @@
     </properties>
 
     <dependencies>
-        <!--api-->
+        <!--com.spacetim.middleware.api-->
         <dependency>
             <groupId>com.spacetim.middleware</groupId>
             <artifactId>common</artifactId>
